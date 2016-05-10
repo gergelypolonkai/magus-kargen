@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<karakter>
+	<egybollathato>
+		<faj ertek="1" />
+		<szarmazas ertek="dél" />
+		<nem ertek="1" />
+		<eletkor ertek="25-30" />
+		<egeszsegiallapot ertek="kitűnő" />
+		<suly ertek="75-80" />
+		<magassag ertek="170-180" />
+		<szepseg ertek="átlagon felüli" />
+		<szemszin ertek="barna és kék" />
+		<hajszin ertek="kopasz" />
+		<hajviselet ertek="" />
+		<ekszerek>
+		</ekszerek>
+		<ruhastilus ertek="" />
+		<ruhaallapot ertek="" />
+		<parfumstilus ertek="" />
+		<beszedstilus ertek="" />
+		<akcentus ertek="déli városállamok-beli" />
+		<ismertetojel ertek="" />
+	</egybollathato>
+	<fobbadatok jatekos="Polonkai Gergely" karakter="Ruin y Thoron" inditva="982278000" faj="1" />
+	<kepessegek ero="15" gyorsasag="18" ugyesseg="16" allokepesseg="17" egeszseg="17" szepseg="15" intelligencia="15" akaratero="18" asztral="18" erzekeles="18" />
+</karakter>

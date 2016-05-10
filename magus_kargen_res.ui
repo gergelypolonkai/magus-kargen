@@ -1,0 +1,50 @@
+<ui>
+	<menubar name="menu">
+		<menu name="KarakterMenu" action="karakter-menu">
+			<menuitem name="new" action="uj-karakter" />
+			<menuitem name="open" action="karakter-megnyitas" />
+			<menuitem name="save" action="karakter-mentes" />
+			<separator />
+			<menuitem name="quit" action="kilepes" />
+		</menu>
+		<menu name="NezetMenu" action="nezet-menu">
+			<menuitem name="egybol_lathato" action="egybol-lathato" />
+			<menuitem name="jatekos_es_karakter" action="jatekos-es-karakter" />
+			<menuitem name="kepessegek" action="kepessegek" />
+			<menuitem name="fobb_adatok" action="fobb-adatok" />
+			<menuitem name="megjelenes" action="megjelenes" />
+			<menuitem name="allando_erzelmek" action="allando-erzelmek" />
+			<menuitem name="szimpatia" action="szimpatia" />
+			<menuitem name="ismertseg" action="ismertseg" />
+			<menuitem name="kulonleges_kepessegek" action="kulonleges-kepessegek" />
+			<menuitem name="tapasztalati_pontok" action="tapasztalati-pontok" />
+			<menuitem name="kepzettsegek" action="kepzettsegek" />
+			<menuitem name="nyelvek" action="nyelvek" />
+			<menuitem name="harcertekek" action="harcertekek" />
+			<menuitem name="eletero" action="eletero" />
+			<menuitem name="pszi" action="pszi" />
+			<menuitem name="magia" action="magia" />
+			<menuitem name="fegyverek" action="fegyverek" />
+			<menuitem name="allatok" action="allatok" />
+			<menuitem name="mesterek" action="mesterek" />
+			<menuitem name="birtokok" action="birtokok" />
+			<menuitem name="alakulatok" action="alakulatok" />
+			<menuitem name="iskolak" action="iskolak" />
+			<menuitem name="muvek" action="muvek" />
+			<menuitem name="ertekek" action="ertekek" />
+			<menuitem name="ruhak" action="ruhak" />
+			<menuitem name="varazstargyak" action="varazstargyak" />
+			<menuitem name="felszereles" action="felszereles" />
+			<menuitem name="varazslatok" action="varazslatok" />
+			<menuitem name="tanulas" action="tanulas" />
+			<menuitem name="sebesulesek" action="sebesulesek" />
+			<menuitem name="betegsegek" action="betegsegek" />
+			<menuitem name="varazslat_kutatas" action="varazslat-kutatas" />
+			<menuitem name="kulonleges_dolgok" action="kulonleges-dolgok" />
+			<menuitem name="megjegyzesek" action="megjegyzesek" />
+			<menuitem name="tortenet" action="tortenet" />
+			<menuitem name="kepek" action="kepek" />
+		</menu>
+	</menubar>
+</ui>
+

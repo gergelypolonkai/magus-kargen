@@ -1,0 +1,38 @@
+# Ebben a fileban van a kargen összes adata. Minden szekciónak megvan a maga
+# adatszerkezete. Csak akkor változtasd meg, ha a házi szabályrendszeretek ezt
+# szükségessé teszi! Az összes kulcs (szekciónév és szekción belüli érték neve)
+# ékezetmentes!! A #-tel kezdõdõ és az üres sorok kommentnek számítanak, a
+# program ezeket nem veszi figyelembe. A file kódolása ISO-8859-2!!
+
+[global]
+kezdo_kap = 375
+
+[kap]
+kepesseg = 3:15:1
+kepesseg = 15:18:2
+kepesseg = 19::3
+ke = ::1
+te = ::1
+ve = ::1
+ce = ::2
+hmperszint = :20:3
+epalap = ::2
+fpalap = ::2
+fpperszint = :20:3
+kpalap = ::1
+kpperszint = :20:2
+elsodleges_kepzettseg = ::1
+masodlagos_kepzettseg = ::2
+tiltott_kepzettseg = ::3
+
+[kepesseg]
+nev = Erõ
+nev = Gyorsaság
+nev = Ügyesség
+nev = Állóképesség
+nev = Egészség
+nev = Szépség
+nev = Intelligencia
+nev = Akaraterõ
+nev = Asztrál
+nev = Érzékelés
